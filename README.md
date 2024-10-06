@@ -12,3 +12,5 @@
   <li>Print All patients</li>
   <li>Get next patient</li>
 </ull>
+  <hr/>
+<img src="https://github.com/user-attachments/assets/db2aebe5-d4ed-4a10-b22a-6d01530bd990"/>
